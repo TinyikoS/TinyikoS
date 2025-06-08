@@ -48,12 +48,6 @@ I enjoy building things that are not only smart but also visually engaging. My j
 
 ---
 
-### 📫 Let's Be Friends!
- 
-- 🌐 LinkedIn: [@tinyiko-siwele-22745a2a9](https://www.linkedin.com/in/tinyiko-siwele-22745a2a9)
-
----
-
 ### 🌼 Favorite Verse
 
 > 🌟 **"Rejoice always." – 1 Thessalonians 5:16** 🌟
