@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wavy&color=auto&height=200&section=header&text=Hi%20I'm%20Tinyiko%20Siwele!&fontSize=40&fontAlignY=35&animation=twinkling" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20I'm%20Tinyiko%20Siwele!&fontAlign=50" alt="header"/>
 </p>
 
 <h1 align="center">✨ Creative Dev-in-Progress ✨</h1>
@@ -11,12 +11,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/tinyiko-siwele">
-    <img src="https://img.shields.io/github/followers/tinyiko-siwele?label=Follow&style=social" alt="GitHub Followers">
-  </a>
-  <a href="mailto:tinyikolsiwele@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tinyikolsiwele@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
   <a href="https://www.linkedin.com/in/tinyiko-siwele-22745a2a9">
     <img src="https://img.shields.io/badge/LinkedIn-Tinyiko%20Siwele-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
@@ -34,24 +28,22 @@ I enjoy building things that are not only smart but also visually engaging. My j
 
 ### 🛠️ My Toolbox
 
-- 👩‍💻 **Languages & Skills:** `C#` · `HTML` · `SQL`
+- 👩‍💻 **Languages & Skills:** `C#` · `HTML` · `SQL` 
 - 🧠 **Strengths:** Problem-solving · Creativity · Attention to Detail
 - 💖 **Passions:**  
-  - 🎮 Game Design  
-  - 🧱 3D Modelling  
+  - 🎮 Game Design   
   - 🌐 Web Design  
-  - 🎨 Visual Art
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tinyiko-siwele&show_icons=true&theme=tokyonight" alt="Tinyiko's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TinyikoS&show_icons=true&theme=tokyonight" alt="Tinyiko's GitHub stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinyiko-siwele&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinyikoS&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
