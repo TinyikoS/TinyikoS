@@ -5,9 +5,8 @@
 <h1 align="center">✨ Creative Dev-in-Progress ✨</h1>
 
 <p align="center">
-  🎓 2nd Year Bachelor of Computing Student @ <a href="https://www.belgiumcampus.ac.za/">Belgium Campus</a> <br/>
+  🎓 Bachelor of Computing Student @ <a href="https://www.belgiumcampus.ac.za/">Belgium Campus</a> <br/>
   💻 Aspiring Software Engineer | 🎨 Art & Design Lover  <br/>
-  📍 Pretoria, South Africa <br/>
 </p>
 
 <p align="center">
@@ -20,7 +19,7 @@
 
 ### 🌸 About Me
 
-Hi there! I'm **Tinyiko Siwele**, a second-year Bachelor of Computing student with a love for all things tech and design.  
+Hi there! I'm **Tinyiko Siwele**, a Bachelor of Computing student with a love for all things tech and design.  
 I'm **eager to learn**, grow, and challenge myself in every step of my journey.  
 I enjoy building things that are not only smart but also visually engaging. My journey is driven by creativity, curiosity, and a love for blending logic with art.
 
