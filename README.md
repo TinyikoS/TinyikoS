@@ -35,17 +35,6 @@ I enjoy building things that are not only smart but also visually engaging. My j
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TinyikoS&show_icons=true&theme=tokyonight" alt="Tinyiko's GitHub stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinyikoS&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
 
 ### 🌼 Favorite Verse
 
