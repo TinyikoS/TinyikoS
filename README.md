@@ -2,11 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20I'm%20Tinyiko%20Siwele!&fontAlign=50" alt="header"/>
 </p>
 
-<h1 align="center">✨ Creative Dev-in-Progress ✨</h1>
+<h1 align="center">✨ Creative Dev ✨</h1>
 
 <p align="center">
-  🎓 Bachelor of Computing Student @ <a href="https://www.belgiumcampus.ac.za/">Belgium Campus</a> <br/>
-  💻 Aspiring Software Engineer | 🎨 Art & Design Lover  <br/>
+  Bachelor of Computing Student @ <a href="https://www.belgiumcampus.ac.za/">Belgium Campus</a> <br/>
+  Software Engineer | Creative  <br/>
 </p>
 
 <p align="center">
@@ -17,31 +17,18 @@
 
 ---
 
-### 🌸 About Me
+### About Me
 
-Hi there! I'm **Tinyiko Siwele**, a Bachelor of Computing student with a love for all things tech and design.  
-I'm **eager to learn**, grow, and challenge myself in every step of my journey.  
-I enjoy building things that are not only smart but also visually engaging. My journey is driven by creativity, curiosity, and a love for blending logic with art.
-
----
-
-### 🛠️ My Toolbox
-
-- 👩‍💻 **Languages & Skills:** `C#` · `HTML` · `SQL` 
-- 🧠 **Strengths:** Problem-solving · Creativity · Attention to Detail
-- 💖 **Passions:**  
-  - 🎮 Game Design   
-  - 🌐 Web Design  
-
----
+I'm Tinyiko Siwele, a Bachelor of Computing student at Belgium Campus with a strong foundation and passion in programming and problem-solving. I'm a software engineer who thrives on creativity and innovation. Beyond coding, my interests lean towards art and design, which fuels my curiosity in UX/UI design and game design.
 
 
-### 🌼 Favorite Verse
+### My Toolbox
 
-> 🌟 **"Rejoice always." – 1 Thessalonians 5:16** 🌟
+- **Languages & Skills:** `C#` · `HTML/CSS` · `SQL`· `JavaScript` · `Java`
+- **Strengths:** Problem-solving · Creativity · Team Collaboration
 
 ---
 
 <p align="center">
-  ☁️ Thanks for stopping by! Let's build beautiful things together 💕
+  🌟 **"Rejoice always." – 1 Thessalonians 5:16** 🌟
 </p>
