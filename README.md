@@ -30,5 +30,5 @@ I'm Tinyiko Siwele, a Bachelor of Computing student at Belgium Campus with a str
 ---
 
 <p align="center">
-  🌟 **"Rejoice always." – 1 Thessalonians 5:16** 🌟
+  🌟 "Rejoice always." – 1 Thessalonians 5:16 🌟
 </p>
